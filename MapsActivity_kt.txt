@@ -1,0 +1,81 @@
+package com.mhl.session5tv.activities
+
+import android.graphics.drawable.BitmapDrawable
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import androidx.core.content.ContextCompat
+import androidx.core.content.res.ResourcesCompat
+
+import com.google.android.gms.maps.CameraUpdateFactory
+import com.google.android.gms.maps.GoogleMap
+import com.google.android.gms.maps.OnMapReadyCallback
+import com.google.android.gms.maps.SupportMapFragment
+import com.google.android.gms.maps.model.BitmapDescriptor
+import com.google.android.gms.maps.model.LatLng
+import com.google.android.gms.maps.model.MarkerOptions
+import com.google.android.gms.maps.model.PolylineOptions
+import com.mhl.session5tv.R
+import com.mhl.session5tv.databinding.ActivityMapsBinding
+import com.mhl.session5tv.helpclasses.BitmapHelper
+
+class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
+
+    private lateinit var mMap: GoogleMap
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_maps)
+        // Obtain the SupportMapFragment and get notified when the map is ready to be used.
+//        val fragment = SupportMapFragment()
+//
+//
+//        val mapFragment = supportFragmentManager.beginTransaction().replace(R.id.map, fragment).commit()
+//        mapFragment.getMapAsync(this)
+        val fragment = SupportMapFragment()
+        supportFragmentManager.beginTransaction().add(R.id.map, fragment).commit()
+        fragment.getMapAsync(this)
+    }
+
+    override fun onMapReady(googleMap: GoogleMap) {
+        mMap = googleMap
+
+        //Добавление первого курьера
+        val sydney = LatLng(-34.0, 151.0)
+        //Добавление второго курьера
+        val sydney2 = LatLng(-32.0, 141.0)
+        //Добавление пути первого курьера
+        val polyline = PolylineOptions()
+            .add(LatLng(-34.0, 151.0))
+            .add(LatLng(-33.84, 150.83))
+            .add(LatLng(-33.66, 150.53))
+            .add(LatLng(-33.47, 150.34))
+            .add(LatLng(-33.28, 150.0))
+            .add(LatLng(-32.0, 149.7))
+         //Добавление пути второго курьера
+        val polyline2 = PolylineOptions()
+            .add(LatLng(-32.0, 141.0))
+            .add(LatLng(-31.84, 140.83))
+            .add(LatLng(-31.66, 140.53))
+            .add(LatLng(-31.47, 140.34))
+            .add(LatLng(-31.28, 140.0))
+            .add(LatLng(-31.0, 139.7))
+            .color(ContextCompat.getColor(this, R.color.teal_200))
+        //Добавление иконок для курьеров
+        val icon : BitmapDescriptor by lazy {
+        val color = ContextCompat.getColor(this, R.color.black)
+        BitmapHelper.vectorToBitmap(this, R.drawable.ic_navigation, color)
+        }
+        val icon2 : BitmapDescriptor by lazy {
+            val color2 = ContextCompat.getColor(this, R.color.teal_200)
+            BitmapHelper.vectorToBitmap(this, R.drawable.ic_navigation, color2)
+        }
+
+        //Добавление курьеров и их путей на карту
+        mMap.addMarker(MarkerOptions().position(sydney).title("").icon(icon))
+        mMap.addMarker(MarkerOptions().position(sydney2).title("").icon(icon2))
+        mMap.addPolyline(polyline)
+        mMap.addPolyline(polyline2)
+        //Перемещение камеры на первого курьера
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney))
+    }
+}
