@@ -1,0 +1,49 @@
+C:\Users\SKAT\source\repos\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.exe.config
+C:\Users\SKAT\source\repos\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.exe
+C:\Users\SKAT\source\repos\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.pdb
+C:\Users\SKAT\source\repos\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csprojAssemblyReference.cache
+C:\Users\SKAT\source\repos\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная_1.Form1.resources
+C:\Users\SKAT\source\repos\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная_1.Properties.Resources.resources
+C:\Users\SKAT\source\repos\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csproj.GenerateResource.cache
+C:\Users\SKAT\source\repos\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csproj.CoreCompileInputs.cache
+C:\Users\SKAT\source\repos\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.exe
+C:\Users\SKAT\source\repos\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.pdb
+C:\Users\студент\Desktop\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.exe.config
+C:\Users\студент\Desktop\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.exe
+C:\Users\студент\Desktop\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.pdb
+C:\Users\студент\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csprojAssemblyReference.cache
+C:\Users\студент\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная_1.Form1.resources
+C:\Users\студент\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная_1.Properties.Resources.resources
+C:\Users\студент\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.exe
+C:\Users\студент\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.pdb
+C:\Users\Студент.MOD\Desktop\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.exe.config
+C:\Users\Студент.MOD\Desktop\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.exe
+C:\Users\Студент.MOD\Desktop\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.pdb
+C:\Users\Студент.MOD\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csproj.AssemblyReference.cache
+C:\Users\Студент.MOD\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная_1.Form1.resources
+C:\Users\Студент.MOD\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная_1.Properties.Resources.resources
+C:\Users\Студент.MOD\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csproj.GenerateResource.cache
+C:\Users\Студент.MOD\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csproj.CoreCompileInputs.cache
+C:\Users\Студент.MOD\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.exe
+C:\Users\Студент.MOD\Desktop\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.pdb
+E:\МИША\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.exe.config
+E:\МИША\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.exe
+E:\МИША\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.pdb
+E:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csproj.AssemblyReference.cache
+E:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная_1.Form1.resources
+E:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная_1.Properties.Resources.resources
+E:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csproj.GenerateResource.cache
+E:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csproj.CoreCompileInputs.cache
+E:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.exe
+E:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.pdb
+D:\МИША\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.exe.config
+D:\МИША\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.exe
+D:\МИША\самостоятельная 1\самостоятельная 1\bin\Debug\самостоятельная 1.pdb
+D:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csprojAssemblyReference.cache
+D:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная_1.Form1.resources
+D:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная_1.Properties.Resources.resources
+D:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csproj.GenerateResource.cache
+D:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.csproj.CoreCompileInputs.cache
+D:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.exe
+D:\МИША\самостоятельная 1\самостоятельная 1\obj\Debug\самостоятельная 1.pdb
